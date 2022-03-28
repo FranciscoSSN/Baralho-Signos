@@ -1,0 +1,19 @@
+.box {
+  background-color: rgb(126, 18, 204);
+  align-items: center;
+  padding: 10px;
+  margin: 10px;
+}
+
+.texto {
+  font-size: 33px;
+  font-weight: 600;
+  color: rgb(2, 2, 2);
+  text-transform: uppercase;
+  text-align: center;
+  cursor: pointer;
+}
+
+.texto:hover {
+  color: #fff
+}
