@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Baralho-Signos/static/css/main.d902cf67.css",
+    "main.js": "/Baralho-Signos/static/js/main.49871e48.js",
+    "index.html": "/Baralho-Signos/index.html",
+    "main.d902cf67.css.map": "/Baralho-Signos/static/css/main.d902cf67.css.map",
+    "main.49871e48.js.map": "/Baralho-Signos/static/js/main.49871e48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d902cf67.css",
+    "static/js/main.49871e48.js"
+  ]
+}
